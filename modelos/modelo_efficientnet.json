@@ -1,0 +1,26 @@
+{
+  "arquitectura": "efficientnet",
+  "clases": [
+    "angry",
+    "disgust",
+    "fear",
+    "happy",
+    "neutral",
+    "sad",
+    "surprise"
+  ],
+  "etiquetas": [
+    "Enojo",
+    "Asco",
+    "Miedo",
+    "Felicidad",
+    "Neutral",
+    "Tristeza",
+    "Sorpresa"
+  ],
+  "img_size": 112,
+  "canales": 3,
+  "fecha": "2026-11-07T12:28:04",
+  "val_accuracy": 0.5794,
+  "epocas_entrenadas": 30
+}

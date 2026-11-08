@@ -1,0 +1,7 @@
+datos/*
+!datos/.gitkeep
+resultados/*
+!resultados/.gitkeep
+modelos/*.keras
+__pycache__/
+venv/
